@@ -2839,6 +2839,7 @@ line-height: 1.5;
     position: relative;
     display: block;
     margin-top: 51px;
+    margin-right: 20px;
 }
 
 .have-questions__img::before {
@@ -4497,6 +4498,7 @@ line-height: 1.5;
 .we-build {
     position: relative;
     display: block;
+  
 }
 
 .we-build__left {
@@ -6065,12 +6067,12 @@ line-height: 1.5;
 .project-full-width__img {
     position: relative;
     display: block;
-    border-radius: 20px;
+   
 }
 
 .project-full-width__img img {
     width: 100%;
-    border-radius: 20px;
+    border-radius: 5px;
 }
 
 .project-full-width__content {
@@ -6722,7 +6724,8 @@ line-height: 1.5;
 }
 
 .about-page__img img {
-    
+  margin-top: 50px;
+ 
 }
 
 .about-page__right {
