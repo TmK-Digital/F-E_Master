@@ -1051,6 +1051,10 @@
         font-style: normal;
     }
 
+    i{
+        font-style: normal;
+    }
+
     .main-menu-wrapper__logo {
         margin-right: 50px;
     }
