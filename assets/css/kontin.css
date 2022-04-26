@@ -47,6 +47,10 @@
     --bs-gutter-y: 30px;
 }
 
+.fa{
+    font-style: normal;
+}
+
 .grid_container {
     display: flex;
     flex-wrap: wrap;
