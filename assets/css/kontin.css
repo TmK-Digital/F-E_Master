@@ -48,7 +48,7 @@
 }
 
 .fa .far .fas{
-    font-style: normal;
+    font-style: normal !important;
 }
 
 .grid_container {
