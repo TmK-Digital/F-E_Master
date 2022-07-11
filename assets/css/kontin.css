@@ -2174,6 +2174,7 @@ line-height: 1.5;
     background-color: #f3f3f3;
     height: 462px;
     z-index: -1;
+    border-radius:10px;
 }
 
 
@@ -2188,7 +2189,7 @@ line-height: 1.5;
     display: block;
     overflow: hidden;
     z-index: 1;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .services-one__img:before {
@@ -2198,7 +2199,7 @@ line-height: 1.5;
     bottom: 0;
     right: 0;
     content: "";
-    border-radius: 0%;
+    border-radius: 10px;
     background-color: rgba(var(--thm-black-rgb), .40);
     z-index: 1;
     transform: scale(0.0) perspective(400px);
