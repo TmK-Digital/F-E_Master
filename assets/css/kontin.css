@@ -1508,6 +1508,10 @@ line-height: 1.5;
     color: var(--thm-primary);
 }
 
+i{
+    font-style: normal;
+}
+
 .mobile-nav__contact li>i {
     width: 30px;
     height: 30px;
